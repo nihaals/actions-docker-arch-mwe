@@ -1,5 +1,7 @@
 # GitHub Actions Arch Linux Docker issue MWE
 
+This issue started between 2021-02-06 08:14 UTC and 2021-02-06 09:12 UTC.
+
 ## Steps to reproduce
 
 1. Clone this repository
